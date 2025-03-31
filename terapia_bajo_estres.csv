@@ -24,7 +24,7 @@ Age,Gender,Education_Level,Employment_Status,Sleep_Hours,Physical_Activity_Hrs,S
 40,Female,Other,Retired,8.1,1.4,6,7,7,3,0,1,,1,0,Occasional,2,5,9,6,3
 29,Male,PhD,Retired,2.8,8.9,8,4,12,4,0,0,,1,0,Occasional,8,2,6,8,5
 22,Female,High School,Retired,5.5,1.3,1,7,4,4,1,1,Regular,1,0,,8,4,2,2,7
-65,Male,PhD,Retired,6.2,2.5,8,20,4,2,0,0,,1,0,,6,2,4,4,5
+65,Male,PhD,Retired,6.2,2.5,8,20,4,2,0,0,,1,0,,6,2,4,4,5 
 42,Female,High School,Unemployed,4.7,4.4,2,13,7,1,0,0,,1,0,Occasional,3,7,2,6,4
 42,Female,Other,Retired,7.0,0.8,5,7,12,2,1,1,,1,0,Frequent,8,6,3,5,1
 46,Male,Bachelor's,Retired,6.0,1.9,1,16,16,1,0,1,,1,1,,3,9,8,5,1
